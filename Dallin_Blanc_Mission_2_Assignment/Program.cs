@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Author: Dallin Blanc
+
+using System;
 
 namespace Dallin_Blanc_Mission_2_Assignment
 {
